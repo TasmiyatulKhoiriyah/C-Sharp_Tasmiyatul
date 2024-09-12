@@ -1,0 +1,14 @@
+D:\TASMIYATUL\IT_SMK\konversi_suhu\bin\Debug\net8.0\konversi_suhu.exe
+D:\TASMIYATUL\IT_SMK\konversi_suhu\bin\Debug\net8.0\konversi_suhu.deps.json
+D:\TASMIYATUL\IT_SMK\konversi_suhu\bin\Debug\net8.0\konversi_suhu.runtimeconfig.json
+D:\TASMIYATUL\IT_SMK\konversi_suhu\bin\Debug\net8.0\konversi_suhu.dll
+D:\TASMIYATUL\IT_SMK\konversi_suhu\bin\Debug\net8.0\konversi_suhu.pdb
+D:\TASMIYATUL\IT_SMK\konversi_suhu\obj\Debug\net8.0\konversi_suhu.GeneratedMSBuildEditorConfig.editorconfig
+D:\TASMIYATUL\IT_SMK\konversi_suhu\obj\Debug\net8.0\konversi_suhu.AssemblyInfoInputs.cache
+D:\TASMIYATUL\IT_SMK\konversi_suhu\obj\Debug\net8.0\konversi_suhu.AssemblyInfo.cs
+D:\TASMIYATUL\IT_SMK\konversi_suhu\obj\Debug\net8.0\konversi_suhu.csproj.CoreCompileInputs.cache
+D:\TASMIYATUL\IT_SMK\konversi_suhu\obj\Debug\net8.0\konversi_suhu.dll
+D:\TASMIYATUL\IT_SMK\konversi_suhu\obj\Debug\net8.0\refint\konversi_suhu.dll
+D:\TASMIYATUL\IT_SMK\konversi_suhu\obj\Debug\net8.0\konversi_suhu.pdb
+D:\TASMIYATUL\IT_SMK\konversi_suhu\obj\Debug\net8.0\konversi_suhu.genruntimeconfig.cache
+D:\TASMIYATUL\IT_SMK\konversi_suhu\obj\Debug\net8.0\ref\konversi_suhu.dll
